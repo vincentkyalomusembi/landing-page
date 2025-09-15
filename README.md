@@ -17,7 +17,7 @@ A modern, responsive landing page for a food delivery service built with React a
 
 ### Mobile View
 
-![alt text](image-1.png)
+![image](image-3.png)
 
 
 ### Features Showcase
